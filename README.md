@@ -10,7 +10,12 @@ I specialise in HTML, CSS, and Javascript.
 I'm currently learning Python, C and C++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKM12345&layout=compact)](https://github.com/MKM12345)
+<br>
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
 # What do I do?
 I focus on making Small to Big projets to Contribute to Github as much as I can!
