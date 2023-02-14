@@ -42,20 +42,9 @@ Software:
 NASA Astrophysicist and NASA technician
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
 I will Be posting Projects/Apps, but that's only when I've mastered them both.
 
 So right now, I'm focusing on Game Developement (hey, I'm still a kid!)!
