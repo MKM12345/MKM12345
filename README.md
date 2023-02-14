@@ -10,6 +10,7 @@ I specialise in HTML, CSS, and Javascript.
 I'm currently learning Python, C and C++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKM12345&layout=compact)](https://github.com/MKM12345)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 
 # What do I do?
 I focus on making Small to Big projets to Contribute to Github as much as I can!
@@ -48,7 +49,6 @@ NASA Astrophysicist and NASA technician
 I will Be posting Projects/Apps, but that's only when I've mastered them both.
 
 So right now, I'm focusing on Game Developement (hey, I'm still a kid!)!
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=7]MKM12345.MKM12345)](https://www.MKM12345.dev/)
 <!--
 **MKM12345/MKM12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
