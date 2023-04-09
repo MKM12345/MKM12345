@@ -44,6 +44,9 @@ Software:
 - Vscode
 - NotePad++
 - IDLE  
+<p align="center"> 
+ <img src="https://img.shields.io/github/followers/MKM12345.svg?style=social&label=Follow&maxAge=2592000" alt="MKM!2345's followers" />
+</p>
 
 # What do I want To become?
 NASA Astrophysicist and NASA technician
