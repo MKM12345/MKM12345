@@ -1,6 +1,6 @@
-### Hi there 👋
+<img style="width:100%" src="https://github.com/MKM12345/MKM12345/blob/main/header.png" alt="/"/>
 
-Hi, I'm MKM12345, and I'm a Learning developer(and still a kid)! 
+I'm a Learning developer(and still a kid)! 
 
 ![MKM12345 github stats](https://github-readme-stats.vercel.app/api?username=MKM12345&show_icons=true&hide_border=true)
 
@@ -16,6 +16,7 @@ I'm currently learning Python, C and C++
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+
 
 # What do I do?
 I focus on making Small to Big projets to Contribute to Github as much as I can!
@@ -44,6 +45,7 @@ Software:
 - Vscode
 - NotePad++
 - IDLE  
+
 <p align="center"> 
  <img src="https://img.shields.io/github/followers/MKM12345.svg?style=social&label=Follow&maxAge=2592000" alt="MKM!2345's followers" />
 </p>
@@ -57,6 +59,17 @@ NASA Astrophysicist and NASA technician
 I will Be posting Projects/Apps, but that's only when I've mastered them both.
 
 So right now, I'm focusing on Game Developement (hey, I'm still a kid!)!
+<p align="center">
+ 
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/pylogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/htmllogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/csslogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/jslogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/csharplogo.png" height=85px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/gitlogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/vscodelogo.png" width=75px />
+ <img src="https://th.bing.com/th/id/OIP._Mq1T1IJe6cw14lre2cBzgHaE8?pid=ImgDet&rs=1" width=150px />
+</p>
 <!--
 **MKM12345/MKM12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -69,5 +82,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:_I'm Only twelve_
 -->
