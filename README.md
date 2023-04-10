@@ -1,6 +1,12 @@
 <img style="width:100%" src="https://github.com/MKM12345/MKM12345/blob/main/header.png" alt="/"/>
 
 I'm a Learning developer(and still a kid)! 
+<div align="center">
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MKM12345&repo=Loader-for-a-game)](https://github.com/MKM12345/Loader-for-a-game)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MKM12345&repo=games)](https://github.com/MKM12345/games)
+ <p>Check out these repos!</p>
+</div>
 
 ![MKM12345 github stats](https://github-readme-stats.vercel.app/api?username=MKM12345&show_icons=true&hide_border=true)
 
