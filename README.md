@@ -23,7 +23,9 @@ I'm currently learning Python, C and C++
 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
-
+<div align="center">
+ <a href="https://github.com/MKM12345"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKM12345"> </a>
+</div>
 # What do I do?
 I focus on making Small to Big projets to Contribute to Github as much as I can!
 
@@ -52,6 +54,7 @@ Software:
 - NotePad++
 - IDLE  
 
+
 <p align="center"> 
  <img src="https://img.shields.io/github/followers/MKM12345.svg?style=social&label=Follow&maxAge=2592000" alt="MKM!2345's followers" />
 </p>
@@ -64,7 +67,10 @@ NASA Astrophysicist and NASA technician
 <br>
 I will Be posting Projects/Apps, but that's only when I've mastered them both.
 
-So right now, I'm focusing on Game Developement (hey, I'm still a kid!)!
+So right now, I'm focusing on Game Developement (hey, I'm still a kid!)
+<a href="https://github.com/MKM12345"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MKM12345"> </a>
+
+
 <p align="center">
  
  <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/pylogo.png" width=75px />
