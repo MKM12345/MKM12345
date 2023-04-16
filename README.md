@@ -27,6 +27,8 @@ I'm currently learning Python, C and C++
  <a href="https://github.com/MKM12345"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKM12345"> </a>
 </div>
 # What do I do?
+
+
 I focus on making Small to Big projets to Contribute to Github as much as I can!
 
 I love App Developing for both Windows and Mac, but I'm still working on one, so it's not on Github.
