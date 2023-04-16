@@ -84,6 +84,7 @@ So right now, I'm focusing on Game Developement (hey, I'm still a kid!)
  <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/vscodelogo.png" width=75px />
  <img src="https://th.bing.com/th/id/OIP._Mq1T1IJe6cw14lre2cBzgHaE8?pid=ImgDet&rs=1" width=150px />
 </p>
+Credits go to [hamdivazim](https://github.com/hamdivazim/) for assets
 <!--
 **MKM12345/MKM12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
