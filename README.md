@@ -70,7 +70,8 @@ NASA Astrophysicist and NASA technician
 I will Be posting Projects/Apps, but that's only when I've mastered them both.
 
 So right now, I'm focusing on Game Developement (hey, I'm still a kid!)
-<a href="https://github.com/MKM12345"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MKM12345"> </a>
+<a href="https://github.com/MKM12345"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mkm12345&&bg_color=1f1f7a&color=e60000&line=ffa64d&point=ffffff"> </a>
+
 
 
 <p align="center">
