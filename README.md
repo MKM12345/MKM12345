@@ -3,8 +3,8 @@
 I'm a Learning developer(and still a kid)! 
 <div align="center">
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MKM12345&repo=Loader-for-a-game)](https://github.com/MKM12345/Loader-for-a-game)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MKM12345&repo=games)](https://github.com/MKM12345/games)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MKM12345&repo=Hacker-Style-Editor](https://github.com/MKM12345/Hacker-Style-Editor))
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MKM12345&repo=Git-repo-cloner)]([https://github.com/MKM12345/games](https://github.com/MKM12345/Git-repo-cloner)
  <p>Check out these repos!</p>
 </div>
 
