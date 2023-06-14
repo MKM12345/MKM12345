@@ -33,6 +33,8 @@ I focus on making Small to Big projets to Contribute to Github as much as I can!
 
 I love App Developing for both Windows and Mac, but I'm still working on one, so it's not on Github.
 
+```
+
 Web developement:
 - HTML
 - CSS
@@ -56,6 +58,7 @@ Software:
 - NotePad++
 - IDLE  
 
+```
 
 <p align="center"> 
  <img src="https://img.shields.io/github/followers/MKM12345.svg?style=social&label=Follow&maxAge=2592000" alt="MKM!2345's followers" />
