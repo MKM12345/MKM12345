@@ -11,9 +11,7 @@ I'm a Learning developer(and still a kid)!
 ![MKM12345 github stats](https://github-readme-stats.vercel.app/api?username=MKM12345&show_icons=true&hide_border=true)
 
 # What Languages to I know?
-I specialise in HTML, CSS, and Javascript.
-
-I'm currently learning Python, C and C++
+I specialise in HTML, CSS, and Javascript, Python, C and C++ and recently C# with .NET and Unity.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKM12345&layout=compact)](https://github.com/MKM12345)
 <br>
@@ -31,7 +29,7 @@ I'm currently learning Python, C and C++
 
 I focus on making Small to Big projets to Contribute to Github as much as I can!
 
-I love App Developing for both Windows and Mac, but I'm still working on one, so it's not on Github.
+I love App Developing for both Windows and Mac.
 
 ```
 
@@ -65,14 +63,8 @@ Software:
 </p>
 
 # What do I want To become?
-NASA Astrophysicist and NASA technician
+NASA Computational Astrophysicist
 
-
-<br>
-<br>
-I will Be posting Projects/Apps, but that's only when I've mastered them both.
-
-So right now, I'm focusing on Game Developement (hey, I'm still a kid!)
 <a href="https://github.com/MKM12345"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mkm12345&&bg_color=1f1f7a&color=e60000&line=ffa64d&point=ffffff"> </a>
 
 
