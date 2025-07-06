@@ -5,7 +5,7 @@
 # 👋 Welcome to My World!
 
 **I'm MKM12345** – a 14-year-old full-stack and game developer, building powerful apps and fun games across multiple languages and engines.  
-Started my coding journey at age **11**, and now diving deep into **.NET**, **Unity**, **AI**, and more! 🚀
+Started my coding journey at age **7**, and now diving deep into **.NET**, **Unity**, **AI**, and more! 🚀
 
 </div>
 
