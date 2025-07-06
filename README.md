@@ -110,14 +110,6 @@ OS:                  Windows 11
   </a>
 </div>
 
----
-
-## 🙏 Special Thanks
-
-> Credits to [hamdivazim](https://github.com/hamdivazim) for some of the awesome assets and logos used above.
-
----
-
 ## 🚧 Always building. Always learning. Always leveling up.
 
 > ⚡ **Thanks for visiting!**  
