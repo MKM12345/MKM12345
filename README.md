@@ -125,7 +125,7 @@ OS:                  Windows 11
 
 <div align="center">
 
-<h3>✨ Quote of the Year</h3>
+<h2>✨ Quote of the Year</h2>
 
 <blockquote>
   ⚡ <em>“Code is like magic – it turns thoughts into something real.”</em><br/>
